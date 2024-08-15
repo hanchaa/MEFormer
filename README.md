@@ -1,5 +1,6 @@
 # Robust Multimodal 3D Object Detection via Modality-Agnostic Decoding and Proximity-based Modality Ensemble
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2407.19156)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/robust-multimodal-3d-object-detection-via/3d-object-detection-on-nuscenes)](https://paperswithcode.com/sota/3d-object-detection-on-nuscenes?p=robust-multimodal-3d-object-detection-via)
 <div align="center">
     <img src="figures/meformer.png"/>
     <img src="figures/qual_occluded.png"/>
